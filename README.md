@@ -18,4 +18,4 @@ Todo 리스트, 식사 기록장, 메뉴 추천 기능이 구현 되어있습니
 기록장에 식사 내역을 기록 한 후 저장을 누르면 db에 저장되고 다시 들어왔을 때도 유지됩니다.
 
 ## 실사용 화면들
-<img src="https://user-images.githubusercontent.com/68915238/153279842-d801ddb9-cede-4241-926e-4c14220a5266.png" height="500"> <img src ="https://user-images.githubusercontent.com/68915238/153279849-b4db75a3-11ac-4ccb-810e-9721b972634b.png" height="500"/>
+<img src="https://user-images.githubusercontent.com/68915238/153280383-8db76432-c966-46ae-bd3c-1b03dc3535a4.png" height="500"> <img src ="https://user-images.githubusercontent.com/68915238/153279849-b4db75a3-11ac-4ccb-810e-9721b972634b.png" height="500"/>
