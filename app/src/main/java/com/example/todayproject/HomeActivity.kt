@@ -79,7 +79,6 @@ class HomeActivity : AppCompatActivity(), TodoEdit.onDataPassListener {
         CoroutineScope(Dispatchers.IO).launch {
             if (todo != null) {
                 todoViewModel.insert(todo)
-                Log.d("data", data+"됐다!")
             }
         }
     }

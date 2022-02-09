@@ -7,5 +7,5 @@
         android:pivotY="50%"
         android:repeatMode="reverse"
         android:fillAfter="false"
-        android:repeatCount="100" />
+        android:repeatCount="2" />
 </set>
