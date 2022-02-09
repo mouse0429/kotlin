@@ -3,7 +3,7 @@
 Todo 리스트, 식사 기록장, 메뉴 추천 기능이 구현 되어있습니다
 
 ## 화면 구성
-<img src="https://user-images.githubusercontent.com/68915238/153277215-a76acf35-baf9-44c4-b9cb-5d584c49d9d1.png" height="500"/> <img src="https://user-images.githubusercontent.com/68915238/153277395-3f762df2-b5b6-4d13-bd46-7206d9a62f56.png" height="500"/> <img src="https://user-images.githubusercontent.com/68915238/153277669-64868767-c8a0-4a95-ba09-78b318fe6049.png" height="500"/>
+<img src="https://user-images.githubusercontent.com/68915238/153277215-a76acf35-baf9-44c4-b9cb-5d584c49d9d1.png" height="400"/> <img src="https://user-images.githubusercontent.com/68915238/153277395-3f762df2-b5b6-4d13-bd46-7206d9a62f56.png" height="400"/> <img src="https://user-images.githubusercontent.com/68915238/153277669-64868767-c8a0-4a95-ba09-78b318fe6049.png" height="400"/>
 
 ## 화면 별 설명
 ### 시작 화면
